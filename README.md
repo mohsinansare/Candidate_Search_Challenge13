@@ -5,13 +5,13 @@
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [User story]
-- [Acceptance Criteria]
+- [User story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
 - [Usage](#usage)
 - [Generating Token](#how-to-generate-token)
-- [Tests](#tests)
+- [Bonus for Testing](#tests)
 - [License](#license)
-- [Questions](#questions)
+- [Repository and Email](#repository-and-email)
 
 ## Description
 
@@ -74,13 +74,15 @@ THEN the next candidate's information should be displayed without saving the cur
 
 This project was used get a better understanding on how to use React; more specifically, how to use the react-router DOM library where when users want to go to a different page via the nav bar, it does not reload the page. In addition, I learned how to code in React using Typescript and learned more about how to use useState and useEffect hooks correctly.
 
-## How to Contribute
+## How to Generate Token
 
-Please contact me before contributing to this project. My contact info is located in the Questions section.
+You'll need to create a GitHub Personal Access Token for this app to run. Follow the instructions on creating a fine-grained personal access token in GitHub setting tools.
 
-## Tests
+Once your token is generated, add it to a .env file in the environment folder as VITE_GITHUB_TOKEN. The included .env.EXAMPLE file can be used as an example. By renaming it or make a new file.
 
-The following link goes to the deployed project on Netlify: [Candidate Search](https://arjun-candidate-search.netlify.app/).
+## Bonus for Testing
+
+As a bonus, try to add the ability to sort and filter the list of potential candidates. As well as when "-" is click without adding it gives the candidate search in GitHub.
 
 ## License
 
@@ -88,6 +90,8 @@ This project is covered under the MIT license.
 
 ---
 
-## Questions
+## Repository and Email:
 
-GitHub username: [apatel62](https://github.com/apatel62) <br>
+GitHub Repository: https://github.com/mohsinansare/Candidate_Search_Challenge13
+
+email: mohsinansare@gmail.com
