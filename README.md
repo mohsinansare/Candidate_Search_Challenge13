@@ -8,7 +8,7 @@
 - [User story]
 - [Acceptance Criteria]
 - [Usage](#usage)
-- [How to Contribute](#how-to-contribute)
+- [Generating Token](#how-to-generate-token)
 - [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
