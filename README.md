@@ -90,7 +90,12 @@ This project is covered under the MIT license.
 
 ---
 
-## Repository and Email:
+## Repository, Deployed application, and Email:
+
+The URL of the functional, deployed application.
+
+http://localhost:3000/
+
 
 GitHub Repository: https://github.com/mohsinansare/Candidate_Search_Challenge13
 
